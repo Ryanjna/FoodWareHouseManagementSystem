@@ -1,0 +1,14 @@
+
+# IntelliJ
+/target/
+
+# .idea
+/.idea/*
+
+# xmind
+/xmind/Java Printing.pdf
+/xmind/o2o-xmind.png
+/xmind/o2o.png
+
+# o2o
+o2o.iml
